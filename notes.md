@@ -2,6 +2,16 @@
 
 These are my notes on git
 
+*`git init`: initializes repository version control system
+* `git status`: tells us status of repo
+*`git add` : adds files to be tracked
+*`git commit`: dedicate myself to a version
+
+---
+
+### Tracking Changes
+I am making changes ...
+
 ```
 git init
 ```
