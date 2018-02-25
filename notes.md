@@ -2,15 +2,16 @@
 
 These are my notes on git
 
-*`git init`: initializes repository version control system
+*`git init`: initializes repository version control system (dressing room)
 * `git status`: tells us status of repo
-*`git add` : adds files to be tracked
-*`git commit`: dedicate myself to a version
+*`git add` : adds files to be tracked (green room/curtains)
+*`git commit`: dedicate myself to a version (goes onstage)
 
 ---
 
 ### Tracking Changes
-I am making changes ...
+
+*`git diff`: shows changes not yet tracked
 
 ```
 git init
